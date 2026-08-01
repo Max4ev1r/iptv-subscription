@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T17:34:45+08:00",
+  "updated_at": "2026-08-01T17:38:11+08:00",
   "target_channels": 38,
   "coverage": 38,
   "coverage_percent": 100.0,
@@ -13,10 +13,10 @@
     "北京卫视"
   ],
   "apple_delay_limit_ms": 250,
-  "fast_coverage": 8,
+  "fast_coverage": 36,
   "backup_coverages": [
-    16,
-    9
+    17,
+    10
   ],
   "slow_channels": [
     "CCTV-1",
@@ -28,7 +28,6 @@
     "CCTV-6",
     "CCTV-7",
     "CCTV-8",
-    "CCTV-9",
     "CCTV-11",
     "CCTV-12",
     "CCTV-15",
@@ -47,8 +46,7 @@
     "黑龙江卫视",
     "江西卫视",
     "天津卫视",
-    "东南卫视",
-    "广西卫视"
+    "东南卫视"
   ],
   "latency_ms": {
     "CCTV-1": 459,
@@ -60,7 +58,7 @@
     "CCTV-6": 497,
     "CCTV-7": 769,
     "CCTV-8": 1438,
-    "CCTV-9": 580,
+    "CCTV-9": 248,
     "CCTV-10": 157,
     "CCTV-11": 420,
     "CCTV-12": 647,
@@ -88,7 +86,7 @@
     "江西卫视": 502,
     "天津卫视": 2046,
     "东南卫视": 485,
-    "广西卫视": 434
+    "广西卫视": 64
   },
   "epg_channels": 38,
   "missing_channels": [],
