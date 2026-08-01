@@ -1,0 +1,10 @@
+{
+  "updated_at": "2026-08-01T16:32:41+08:00",
+  "target_channels": 38,
+  "coverage": 38,
+  "coverage_percent": 100.0,
+  "epg_channels": 38,
+  "missing_channels": [],
+  "publishable": true,
+  "engine_commit": "dea96cd311204fb155316b67048b007ca6baaf53"
+}
