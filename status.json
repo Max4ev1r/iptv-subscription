@@ -1,20 +1,23 @@
 {
-  "updated_at": "2026-08-01T17:19:47+08:00",
+  "updated_at": "2026-08-01T17:24:00+08:00",
   "target_channels": 38,
-  "coverage": 36,
-  "coverage_percent": 94.7,
+  "coverage": 35,
+  "coverage_percent": 92.1,
   "fresh_coverage": 31,
   "fallback_channels": [
-    "CCTV-2",
     "CCTV-8",
     "安徽卫视",
     "深圳卫视",
     "天津卫视"
   ],
   "apple_delay_limit_ms": 250,
+  "fast_coverage": 11,
+  "backup_coverages": [
+    18,
+    9
+  ],
   "slow_channels": [
     "CCTV-1",
-    "CCTV-2",
     "CCTV-3",
     "CCTV-4",
     "CCTV-5",
@@ -41,7 +44,6 @@
   ],
   "latency_ms": {
     "CCTV-1": 431,
-    "CCTV-2": 535,
     "CCTV-3": 420,
     "CCTV-4": 676,
     "CCTV-5": 448,
@@ -79,6 +81,7 @@
   },
   "epg_channels": 38,
   "missing_channels": [
+    "CCTV-2",
     "山东卫视",
     "河北卫视"
   ],
