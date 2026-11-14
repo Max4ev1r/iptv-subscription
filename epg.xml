@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20261114123246 +0800"><channel id="CCTV1"><display-name lang="zh">CCTV-1</display-name></channel><channel id="CCTV2"><display-name lang="zh">CCTV-2</display-name></channel><channel id="CCTV3"><display-name lang="zh">CCTV-3</display-name></channel><channel id="CCTV4"><display-name lang="zh">CCTV-4</display-name></channel><channel id="CCTV5"><display-name lang="zh">CCTV-5</display-name></channel><channel id="CCTV5Plus"><display-name lang="zh">CCTV-5+</display-name></channel><channel id="CCTV6"><display-name lang="zh">CCTV-6</display-name></channel><channel id="CCTV7"><display-name lang="zh">CCTV-7</display-name></channel><channel id="CCTV8"><display-name lang="zh">CCTV-8</display-name></channel><channel id="CCTV9"><display-name lang="zh">CCTV-9</display-name></channel><channel id="CCTV10"><display-name lang="zh">CCTV-10</display-name></channel><channel id="CCTV11"><display-name lang="zh">CCTV-11</display-name></channel><channel id="CCTV12"><display-name lang="zh">CCTV-12</display-name></channel><channel id="CCTV13"><display-name lang="zh">CCTV-13</display-name></channel><channel id="CCTV14"><display-name lang="zh">CCTV-14</display-name></channel><channel id="CCTV15"><display-name lang="zh">CCTV-15</display-name></channel><channel id="CCTV16"><display-name lang="zh">CCTV-16</display-name></channel><channel id="CCTV17"><display-name lang="zh">CCTV-17</display-name></channel><channel id="BeijingTV"><display-name lang="zh">北京卫视</display-name></channel><channel id="DragonTV"><display-name lang="zh">东方卫视</display-name></channel><channel id="HunanTV"><display-name lang="zh">湖南卫视</display-name></channel><channel id="JiangsuTV"><display-name lang="zh">江苏卫视</display-name></channel><channel id="ZhejiangTV"><display-name lang="zh">浙江卫视</display-name></channel><channel id="AnhuiTV"><display-name lang="zh">安徽卫视</display-name></channel><channel id="ShandongTV"><display-name lang="zh">山东卫视</display-name></channel><channel id="HenanTV"><display-name lang="zh">河南卫视</display-name></channel><channel id="HebeiTV"><display-name lang="zh">河北卫视</display-name></channel><channel id="HubeiTV"><display-name lang="zh">湖北卫视</display-name></channel><channel id="GuangdongTV"><display-name lang="zh">广东卫视</display-name></channel><channel id="ShenzhenTV"><display-name lang="zh">深圳卫视</display-name></channel><channel id="SichuanTV"><display-name lang="zh">四川卫视</display-name></channel><channel id="ChongqingTV"><display-name lang="zh">重庆卫视</display-name></channel><channel id="LiaoningTV"><display-name lang="zh">辽宁卫视</display-name></channel><channel id="HeilongjiangTV"><display-name lang="zh">黑龙江卫视</display-name></channel><channel id="JiangxiTV"><display-name lang="zh">江西卫视</display-name></channel><channel id="TianjinTV"><display-name lang="zh">天津卫视</display-name></channel><channel id="SoutheastTV"><display-name lang="zh">东南卫视</display-name></channel><channel id="GuangxiTV"><display-name lang="zh">广西卫视</display-name></channel><programme channel="CCTV1" start="20261114120000 +0800" stop="20261114123400 +0800">
-		<title lang="zh">新闻30分</title>
-		<desc lang="zh">《新闻30分》节目创办于1995年4月，每天12:00开始播出，因其新颖、灵活的新闻报道方式，深受广大观众的好评和厚爱，是中央电视台十大栏目之一。2003年5月1日中央电视台新闻频道开播，《新闻30分》开始在中央电视台综合频道和新闻频道并机播出，受众面进一步扩大，结构更加合理，广告形式由在节目前后播出改为在节目中插播，大大避免了观众流失，使广告收视率更加接近节目收视率。2009年7月31日，《新闻30分》正式改版，画面风格与此前改版的《朝闻天下》栏目保持一致。《新闻30分》目前已成为央视最具价值的企业品牌提升和传播的高端平台。</desc>
-	</programme>
-	<programme channel="CCTV1" start="20261114123400 +0800" stop="20261114141300 +0800">
+<tv date="20261114124115 +0800"><channel id="CCTV1"><display-name lang="zh">CCTV-1</display-name></channel><channel id="CCTV2"><display-name lang="zh">CCTV-2</display-name></channel><channel id="CCTV3"><display-name lang="zh">CCTV-3</display-name></channel><channel id="CCTV4"><display-name lang="zh">CCTV-4</display-name></channel><channel id="CCTV5"><display-name lang="zh">CCTV-5</display-name></channel><channel id="CCTV5Plus"><display-name lang="zh">CCTV-5+</display-name></channel><channel id="CCTV6"><display-name lang="zh">CCTV-6</display-name></channel><channel id="CCTV7"><display-name lang="zh">CCTV-7</display-name></channel><channel id="CCTV8"><display-name lang="zh">CCTV-8</display-name></channel><channel id="CCTV9"><display-name lang="zh">CCTV-9</display-name></channel><channel id="CCTV10"><display-name lang="zh">CCTV-10</display-name></channel><channel id="CCTV11"><display-name lang="zh">CCTV-11</display-name></channel><channel id="CCTV12"><display-name lang="zh">CCTV-12</display-name></channel><channel id="CCTV13"><display-name lang="zh">CCTV-13</display-name></channel><channel id="CCTV14"><display-name lang="zh">CCTV-14</display-name></channel><channel id="CCTV15"><display-name lang="zh">CCTV-15</display-name></channel><channel id="CCTV16"><display-name lang="zh">CCTV-16</display-name></channel><channel id="CCTV17"><display-name lang="zh">CCTV-17</display-name></channel><channel id="BeijingTV"><display-name lang="zh">北京卫视</display-name></channel><channel id="DragonTV"><display-name lang="zh">东方卫视</display-name></channel><channel id="HunanTV"><display-name lang="zh">湖南卫视</display-name></channel><channel id="JiangsuTV"><display-name lang="zh">江苏卫视</display-name></channel><channel id="ZhejiangTV"><display-name lang="zh">浙江卫视</display-name></channel><channel id="AnhuiTV"><display-name lang="zh">安徽卫视</display-name></channel><channel id="ShandongTV"><display-name lang="zh">山东卫视</display-name></channel><channel id="HenanTV"><display-name lang="zh">河南卫视</display-name></channel><channel id="HebeiTV"><display-name lang="zh">河北卫视</display-name></channel><channel id="HubeiTV"><display-name lang="zh">湖北卫视</display-name></channel><channel id="GuangdongTV"><display-name lang="zh">广东卫视</display-name></channel><channel id="ShenzhenTV"><display-name lang="zh">深圳卫视</display-name></channel><channel id="SichuanTV"><display-name lang="zh">四川卫视</display-name></channel><channel id="ChongqingTV"><display-name lang="zh">重庆卫视</display-name></channel><channel id="LiaoningTV"><display-name lang="zh">辽宁卫视</display-name></channel><channel id="HeilongjiangTV"><display-name lang="zh">黑龙江卫视</display-name></channel><channel id="JiangxiTV"><display-name lang="zh">江西卫视</display-name></channel><channel id="TianjinTV"><display-name lang="zh">天津卫视</display-name></channel><channel id="SoutheastTV"><display-name lang="zh">东南卫视</display-name></channel><channel id="GuangxiTV"><display-name lang="zh">广西卫视</display-name></channel><programme channel="CCTV1" start="20261114123400 +0800" stop="20261114141300 +0800">
 		<title lang="zh">非遗里的中国(第五季)-四川德阳篇</title>
 		<desc lang="zh">《非遗里的中国》通过非遗创新秀演、沉浸体验、还原绝技等全新的方式来打开非遗，多维度呈现非遗的创新成果、历史底蕴、中国智慧、东方美学。节目展现非遗在新时代迸发出的焕新力量，呈现非遗时光流变中的一脉相承与继往开来。收起</desc>
 	</programme>
@@ -488,9 +484,6 @@
 	<programme channel="CCTV6" start="20261114230300 +0800" stop="20261114235900 +0800">
 		<title lang="zh">禁闭岛（下）</title>
 	</programme>
-	<programme channel="CCTV7" start="20261114120000 +0800" stop="20261114123600 +0800">
-		<title lang="zh">正午国防军事</title>
-	</programme>
 	<programme channel="CCTV7" start="20261114123600 +0800" stop="20261114130800 +0800">
 		<title lang="zh">防务新观察-2026-317</title>
 	</programme>
@@ -550,9 +543,6 @@
 	</programme>
 	<programme channel="CCTV7" start="20261114233900 +0800" stop="20261114235900 +0800">
 		<title lang="zh">第二战场-2026-46</title>
-	</programme>
-	<programme channel="CCTV8" start="20261114122500 +0800" stop="20261114124000 +0800">
-		<title lang="zh">星推荐-2026年11月-13</title>
 	</programme>
 	<programme channel="CCTV8" start="20261114124000 +0800" stop="20261114133600 +0800">
 		<title lang="zh">嫁金钗第29集</title>
@@ -737,9 +727,6 @@
 	<programme channel="CCTV11" start="20261114232700 +0800" stop="20261114235900 +0800">
 		<title lang="zh">大唐狄公案第5集</title>
 	</programme>
-	<programme channel="CCTV12" start="20261114121000 +0800" stop="20261114123300 +0800">
-		<title lang="zh">道德观察(日播版)-2026-318</title>
-	</programme>
 	<programme channel="CCTV12" start="20261114123300 +0800" stop="20261114131000 +0800">
 		<title lang="zh">一线-2026-227</title>
 	</programme>
@@ -787,9 +774,6 @@
 	</programme>
 	<programme channel="CCTV12" start="20261114231100 +0800" stop="20261114235900 +0800">
 		<title lang="zh">2026社会与法电视剧精选-我是刑警-8/38</title>
-	</programme>
-	<programme channel="CCTV13" start="20261114120000 +0800" stop="20261114123400 +0800">
-		<title lang="zh">新闻30分</title>
 	</programme>
 	<programme channel="CCTV13" start="20261114123400 +0800" stop="20261114130000 +0800">
 		<title lang="zh">军情时间到</title>
@@ -928,9 +912,6 @@
 	</programme>
 	<programme channel="CCTV16" start="20261114234000 +0800" stop="20261114235900 +0800">
 		<title lang="zh">实况录像（奥林匹克）-2026/2027赛季短道速滑世界巡回赛 加拿大温哥华站 25分钟版</title>
-	</programme>
-	<programme channel="CCTV17" start="20261114123100 +0800" stop="20261114123700 +0800">
-		<title lang="zh">村里来了钢铁侠-4</title>
 	</programme>
 	<programme channel="CCTV17" start="20261114123700 +0800" stop="20261114132900 +0800">
 		<title lang="zh">乐游新乡村-2026-49</title>
@@ -1154,12 +1135,6 @@
 	<programme channel="DragonTV" start="20261114232900 +0800" stop="20261114235900 +0800">
 		<title lang="zh">电视连续剧：《宿敌》（16）</title>
 	</programme>
-	<programme channel="HunanTV" start="20261114123000 +0800" stop="20261114123500 +0800">
-		<title lang="zh">卫视气象站</title>
-	</programme>
-	<programme channel="HunanTV" start="20261114123000 +0800" stop="20261114123500 +0800">
-		<title lang="zh">卫视气象站</title>
-	</programme>
 	<programme channel="HunanTV" start="20261114123500 +0800" stop="20261114132600 +0800">
 		<title lang="zh">背后2(11)</title>
 	</programme>
@@ -1339,15 +1314,6 @@
 	</programme>
 	<programme channel="JiangsuTV" start="20261114231500 +0800" stop="20261114235900 +0800">
 		<title lang="zh">伟大远征</title>
-	</programme>
-	<programme channel="ZhejiangTV" start="20261114115600 +0800" stop="20261114123600 +0800">
-		<title lang="zh">假日剧场六紧急行动(白天剧场版)04</title>
-	</programme>
-	<programme channel="ZhejiangTV" start="20261114123600 +0800" stop="20261114123700 +0800">
-		<title lang="zh">紧急行动(白天剧场版 片尾)15秒</title>
-	</programme>
-	<programme channel="ZhejiangTV" start="20261114123700 +0800" stop="20261114124100 +0800">
-		<title lang="zh">1114包装6</title>
 	</programme>
 	<programme channel="ZhejiangTV" start="20261114124100 +0800" stop="20261114132200 +0800">
 		<title lang="zh">假日剧场七紧急行动(白天剧场版)05</title>
@@ -2725,9 +2691,6 @@
 	</programme>
 	<programme channel="TianjinTV" start="20261114234000 +0800" stop="20261114235900 +0800">
 		<title lang="zh">伟大远征(1)</title>
-	</programme>
-	<programme channel="SoutheastTV" start="20261114120000 +0800" stop="20261114123300 +0800">
-		<title lang="zh">海峡午报</title>
 	</programme>
 	<programme channel="SoutheastTV" start="20261114123300 +0800" stop="20261114133300 +0800">
 		<title lang="zh">偶像剧场:薛平贵与王宝钏</title>
